@@ -1,3 +1,6 @@
+//Program by Phoenix Palaray
+//license comply with MIT License
+
 bool traff = false;
 int light =120;
 void setup(){
